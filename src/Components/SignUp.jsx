@@ -27,17 +27,14 @@ function SignUp() {
 
     const getAllUsers = async () => {
         const response = await axios.get(BASE_URL + "/user")
-        console.log(response.data);
     }
 
     const setPass = (password) => {
         setPassValue(password.target.value)
-        // console.log(password.target.value);
     }
 
     const setReEnterPass = (password) => {
         setReEnterPassValue(password.target.value)
-        // console.log(password.target.value);
     }
 
     useEffect(() => {
