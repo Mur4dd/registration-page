@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": "fe83",
+      "fullName": "Arzu Yusifzade",
+      "email": "arzuyusifzade23@gmail.com",
+      "password": "Arzu123."
+    },
+    {
+      "id": "4d75",
+      "fullName": "Murad Ahmadli",
+      "email": "muradahmadli1208@gmail.com",
+      "password": "Murad1208."
+    }
+  ]
+}
